@@ -1,4 +1,4 @@
-區間動態規劃（Dynamic D）
+區間動態規劃（Dynamic Dp）
 
 #include <iostream>
 #include <iomanip>
